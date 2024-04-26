@@ -1,13 +1,20 @@
 /**
  *
  *
-   Contract features:
+   smart contract girls wif me
+   $WIFME on base chain
+   https://girlswifme.com
+   https://t.me/girlswifme
+   https://x.com/girlswifme
+
+
+   contract features:
    100,000,000 tokens
-   3% buy tax in ETH sent to community, marketing & developer
-   16% launch sell tax in ETH sent to community, marketing, & developer
-   Function to reduce taxes to 3/3
-   Function to remove taxes
-   Removable anti-whale restrictions of max transaction & max wallet
+   3% buy tax in base eth sent to community, marketing & developer
+   16% launch sell tax in base eth sent to community, marketing, & developer
+   function to reduce taxes to 3/3
+   function to remove taxes
+   removable anti-whale restrictions of max transaction & max wallet
  */
 
 // SPDX-License-Identifier: MIT
